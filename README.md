@@ -1,2 +1,12 @@
 # odin-recipes
-A simple recipe website made to display my understanding of basic HTML concepts.
+
+Description: A simple recipe website made to display recipes for various dishes in HTML. 
+
+Concepts Learned and Applied:
+    1.
+    2.
+    3.
+    4.
+    5.
+
+
