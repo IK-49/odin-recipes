@@ -9,4 +9,5 @@ Concepts Learned and Applied:
     4.
     5.
 
+Made for The Odin Project Foundations course curriculum.
 
