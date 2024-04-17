@@ -1,0 +1,22 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+#page-title {
+    background-color: black;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+.tab1 {
+    tab-size: 2;
+}
+
+.tab2 {
+    tab-size: 4;
+}
